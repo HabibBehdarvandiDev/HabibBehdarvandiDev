@@ -1,6 +1,6 @@
 <div align="center">
   <h1><b>Hi, I'm Habib Behdarvandi</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FFBF07&center=true&vCenter=true&random=false&width=450&lines=Full+Stack+Developer%2C;React+Devloper%2C;Next.js+Developer%2C;API+Designer%2C;Always+up+for+a+game+of+video+games..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FFBF07&center=true&vCenter=true&random=false&width=450&lines=Full+Stack+Developer%2C;React+Devloper%2C;Next.js+Developer%2C;API+Designer%2C;Always+up+for+Warzone..." alt="Typing SVG" />
 </div>
 
 ## **About Me**
