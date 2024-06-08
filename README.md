@@ -3,6 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FFBF07&center=true&vCenter=true&random=false&width=450&lines=Full+Stack+Developer%2C;React+Devloper%2C;Next.js+Developer%2C;API+Designer%2C;Always+up+for+Warzone..." alt="Typing SVG" />
 </div>
 
+
 ## **About Me**
 
 - 🌐 My website: [English](https://habibcoder.vercel.app/)
