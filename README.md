@@ -17,7 +17,6 @@
 
 ## **Skills and Technologies**
 
-
 ### **Languages**
 
 ![JavaScript][javaScript-shield]
