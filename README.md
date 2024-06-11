@@ -35,7 +35,6 @@
 ![NextUI][nextUI-shield]
 ![Radix UI][radixUI-shield]
 
-
 ### **Tools**
 
 ![Git][git-shield]
