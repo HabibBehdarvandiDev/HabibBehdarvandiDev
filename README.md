@@ -41,7 +41,6 @@
 ![GitHub][github-shield]
 ![Visual Studio Code][vsCode-shield]
 
-
 ### **Learning List**
 
 ![Python][python-shield]
