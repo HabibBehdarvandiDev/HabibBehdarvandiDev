@@ -28,6 +28,10 @@
 
 ![React][react-shield]
 ![Next.js][next-shield]
+![Prisma ORM](https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=Prisma&logoColor=white)
+
+### **Backend Development**
+![NodeJS](https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### **UI Libraries**
 
@@ -35,6 +39,7 @@
 ![Shadcn][shadcn-shield]
 ![NextUI][nextUI-shield]
 ![Radix UI][radixUI-shield]
+![Headless UI](https://img.shields.io/badge/Headless%20UI-66E3FF.svg?style=for-the-badge&logo=Headless-UI&logoColor=black)
 
 ### **Tools**
 
@@ -42,6 +47,8 @@
 ![GitHub][github-shield]
 ![Visual Studio Code][vsCode-shield]
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
+
 
 
 ### **Learning List**
