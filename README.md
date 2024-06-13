@@ -55,11 +55,10 @@
 
 ### **Learning List**
 
-![Python][python-shield]
 ![Linux][linux-shield]
-![C][c-shield]
 ![C++][c++-shield]
-
+![Swift](https://img.shields.io/badge/Swift-F05138.svg?style=for-the-badge&logo=Swift&logoColor=white)
+![GO](https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=Go&logoColor=white)
 
 ## **Github Stats**
 
