@@ -41,6 +41,7 @@
 ![Git][git-shield]
 ![GitHub][github-shield]
 ![Visual Studio Code][vsCode-shield]
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
 
 
 ### **Learning List**
