@@ -33,6 +33,10 @@
 ### **Backend Development**
 ![NodeJS](https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
+### **Database Development**
+![Mysql](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
+
 ### **UI Libraries**
 
 ![TailwindCSS][tailwind-shield]
@@ -48,8 +52,6 @@
 ![Visual Studio Code][vsCode-shield]
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
-
-
 
 ### **Learning List**
 
