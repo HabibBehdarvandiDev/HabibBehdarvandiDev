@@ -46,7 +46,6 @@
 
 ### **Tools**
 
-
 ![Git][git-shield]
 ![GitHub][github-shield]
 ![Visual Studio Code][vsCode-shield]
