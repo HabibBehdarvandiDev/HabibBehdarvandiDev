@@ -87,7 +87,6 @@
 [react-shield]: https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black
 [next-shield]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 
-
 [tailwind-shield]: https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white
 [shadcn-shield]: https://img.shields.io/badge/shadcn-000000?style=for-the-badge&logo=shadcnui&logoColor=white
 [nextUI-shield]: https://img.shields.io/badge/NextUI-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
