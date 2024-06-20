@@ -28,7 +28,8 @@
 
 ### **Frontend Development**
 
-![React][react-shield]
+![
+React][react-shield]
 ![Next.js][next-shield]
 ![Prisma ORM](https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=Prisma&logoColor=white)
 
