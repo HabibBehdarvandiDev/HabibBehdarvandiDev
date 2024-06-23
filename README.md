@@ -23,7 +23,6 @@
 ![Java][java-shield]
 ![C#][c#-shield]
 
-
 ### **Frontend Development**
 
 
