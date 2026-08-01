@@ -1,11 +1,19 @@
 <div align="center">
   <h1><b>Hi, I'm Habib Behdarvandi</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FFBF07&center=true&vCenter=true&random=false&width=450&lines=Full+Stack+Developer%2C;React+Devloper%2C;Next.js+Developer%2C;API+Designer%2C;Always+up+for+Warzone..." alt="Typing SVG" />
+
+  <a href="https://habib-dev.ir" target="_blank">
+    <b>🌍 habib-dev.ir</b>
+  </a>
+
+  <br><br>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FFBF07&center=true&vCenter=true&random=false&width=450&lines=Full+Stack+Developer%2C;React+Developer%2C;Next.js+Developer%2C;API+Designer%2C;Always+up+for+Warzone..." alt="Typing SVG" />
 </div>
 
 ## **About Me**
 
-- 🌐 My website: [English](https://habibcoder.vercel.app/)
+- 🌍 Personal Website: https://habib-dev.ir
+- 🌐 Portfolio (English): https://habibcoder.vercel.app/
 - 🌱 Full Stack Developer
 - 🎮 I love video games!
 - 🚀 Languages: JavaScript, TypeScript, Java, C#
@@ -25,15 +33,16 @@
 
 ### **Frontend Development**
 
-![
-React][react-shield]
+![React][react-shield]
 ![Next.js][next-shield]
 ![Prisma ORM](https://img.shields.io/badge/Prisma-2D3748.svg?style=for-the-badge&logo=Prisma&logoColor=white)
 
 ### **Backend Development**
+
 ![NodeJS](https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### **Database Development**
+
 ![Mysql](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
 
@@ -64,19 +73,25 @@ React][react-shield]
 
 <a href="https://github.com/HabibBehdarvandiDev/">
   <img src="https://github-readme-stats.vercel.app/api?username=HabibBehdarvandiDev&include_all_commits=true&count_private=true&show_icons=true&line_height=28&theme=holi" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HabibBehdarvandiDev&show_icons=true&locale=en&layout=compact&line_height=20&theme=holi" width="375"  alt="HabibBehdarvandiDev"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HabibBehdarvandiDev&show_icons=true&locale=en&layout=compact&line_height=20&theme=holi" width="375" alt="HabibBehdarvandiDev"/>
 </a>
 
 ## **Contact Me**
 
-<a href="www.linkedin.com/in/habib-behdarvandi-7012152ba" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin:%20Habib%20Behdarvandi-405DE6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;"/>
+<a href="https://habib-dev.ir" target="_blank">
+  <img src="https://img.shields.io/badge/Website-habib--dev.ir-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" style="margin-bottom: 5px;"/>
 </a>
+
+<a href="https://www.linkedin.com/in/habib-behdarvandi-7012152ba" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Habib%20Behdarvandi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;"/>
+</a>
+
 <a href="mailto:habibbehdarvandi.dev@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/gmail:%20Habib%20Behdarvandi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/Gmail-Habib%20Behdarvandi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-bottom: 5px;"/>
 </a>
+
 <a href="https://t.me/habibetoon" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram:%20habibetoon-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" style="margin-bottom: 5px;" alt="Telegram"/>
+  <img src="https://img.shields.io/badge/Telegram-habibetoon-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" style="margin-bottom: 5px;"/>
 </a>
 
 <!-- Badge Links -->
@@ -104,4 +119,5 @@ React][react-shield]
 [c++-shield]: https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=HabibBehdarvandiDev&icon=0&color=0)](https://visitcount.itsvg.in)
