@@ -138,10 +138,6 @@ Alongside web development, I'm actively transitioning into **Cybersecurity** and
 <img src="https://img.shields.io/badge/Website-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<a href="https://habibcoder.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-English-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
 <a href="https://www.linkedin.com/in/habib-behdarvandi-7012152ba">
 <img src="https://img.shields.io/badge/LinkedIn-Habib_Behdarvandi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
